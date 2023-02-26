@@ -16,7 +16,6 @@
 	    ├── intervals
 		    ├── adjustedintervals/
     ├── output/
-        ├── bwa/
 ```
 
 2. cd to the __tmp__ directory, which we will work from.
