@@ -2,7 +2,7 @@
 
 # Questions
 
-![[Number of AsiSl Breaks Plot.png]]
+![Number of AsiSl Breaks Plot.png](https://github.com/ShilohAlleyne/BrokenStringTest/blob/master/Number%20of%20AsiSl%20Breaks%20Plot.png)
 
 ## 1. Which of the samples are likely to be controls or treated?
 
