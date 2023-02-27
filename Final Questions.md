@@ -6,7 +6,7 @@
 
 ## 1. Which of the samples are likely to be controls or treated?
 
-Samples 1-8 are treated and samples 9-16 are controls. This is evident by the lack of AsiSl breaks in Sample 1-8.
+Samples 1-8 are treated and samples 9-16 are controls. This is evident by the lack of AsiSl breaks in Samples 1-8.
 
 ## 2 & 3. Are there any you are uncertain of? Can you explain the samples in the uncertain group?
 
