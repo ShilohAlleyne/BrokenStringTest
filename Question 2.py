@@ -33,8 +33,6 @@ df['NBreaks'] = tmp
 df['Normalised Breaks'] = df['Total Breaks']/df['NBreaks']
 df = df.drop(columns=['NBreaks'])
 
-print(df)
-
 # Question 2d
 
 # Creates the graph
