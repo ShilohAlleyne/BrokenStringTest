@@ -85,3 +85,5 @@ fig.update_layout(
     hovermode='closest',
 )
 fig.show()
+
+print(df)
